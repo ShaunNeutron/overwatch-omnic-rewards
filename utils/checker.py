@@ -5,7 +5,7 @@ import requests
 from lxml import html
 
 OWL_URL = "https://overwatchleague.com/en-us/"
-OWC_URL = "https://overwatchleague.com/en-us/contenders"
+OWC_URL = "https://overwatchleague.com/en-us/pathtopro"
 
 CONNECT_TIMEOUT = 5 
 READ_TIMEOUT = 10
